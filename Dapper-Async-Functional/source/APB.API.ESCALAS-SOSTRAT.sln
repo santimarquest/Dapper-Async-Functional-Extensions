@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APB.API.ESCALAS_MARITIMAS", "APB.API.ESCALAS-MARITIMAS\APB.API.ESCALAS_MARITIMAS.csproj", "{2D211EA4-26EF-4B6A-838B-A49C0083F778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D211EA4-26EF-4B6A-838B-A49C0083F778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D211EA4-26EF-4B6A-838B-A49C0083F778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D211EA4-26EF-4B6A-838B-A49C0083F778}.Debug|x64.ActiveCfg = Debug|x64
+		{2D211EA4-26EF-4B6A-838B-A49C0083F778}.Debug|x64.Build.0 = Debug|x64
+		{2D211EA4-26EF-4B6A-838B-A49C0083F778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D211EA4-26EF-4B6A-838B-A49C0083F778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D211EA4-26EF-4B6A-838B-A49C0083F778}.Release|x64.ActiveCfg = Release|x64
+		{2D211EA4-26EF-4B6A-838B-A49C0083F778}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53ACCD16-F8AE-48C7-80CC-6C63555A4B6C}
+	EndGlobalSection
+EndGlobal
